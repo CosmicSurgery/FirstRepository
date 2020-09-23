@@ -1,8 +1,0 @@
-September 6th, 2020-
-
--When setting up double graphs , dual legends mess up formatting
-
-September 22nd, 2020-
-
-Set up current workspace to work with git
-
