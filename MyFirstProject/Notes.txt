@@ -1,0 +1,24 @@
+September 6th, 2020-
+
+-When setting up double graphs , dual legends mess up formatting
+
+September 22nd, 2020-
+
+Set up current workspace to work with git
+
+Trying to get moving averages to work in scratchpaper.ipynb
+
+-I'm realizing it will be pretty tricky creating a new dictionary of CDS' for each author, and each category. In order to resample the datetime column I need to only look at one column at a time by the looks of it. It's certainly still possible to do, but may run slower.
+
+-I may be at the point where I want to try and scrap the project and revisit it at a later point. I think for now I'm going to leave the Project alone and package it up into a neat folder.
+
+-Next I'll try to build a project that can make me a little bit more marketable.
+    -> something more practical (webscraping??)
+    -> Something less dysfunctional, less ambitious, less personal, more interesting.
+    
+Skills I learned in this project all need to be revisited and re-proven with quality comments:
+    -regex
+    -pandas
+    -bokeh
+    -working with datetime objects
+    -directory management
